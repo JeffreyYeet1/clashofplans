@@ -1,5 +1,3 @@
-can you write a readme file basically summarizing this
-
 ## Clash of Plans 
 Clash of Plans was inspired by the realization that while many task management and calendar applications exist, few effectively integrate these two essential productivity tools into a seamless experience. The name "Clash of Plans" playfully reflects the struggle of juggling competing priorities and time commitments while striving for productivity and efficiency.
 
